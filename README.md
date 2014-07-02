@@ -18,9 +18,17 @@ Install `expect` package.
 
 `$ sh DSL-Reboot.sh`
 
+
+Notice :
+
 Make sure `.sh` file is executable :
 
 `$ sudo chmod +x DSL-Reboot.sh`
+
+Default assumes user/pass:
+
+user: admin
+password: admin
 
 
 Good Luck
