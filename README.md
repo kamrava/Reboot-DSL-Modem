@@ -14,4 +14,13 @@ Notice : This script is written for D-Link 2730U. If doesn't work for your model
 
 Install `expect` package.
 
+<b>How do I run it ?<b>
+
+`$ sh DSL-Reboot.sh`
+
+Make sure `.sh` file is executable :
+
+`$ sudo chmod +x DSL-Reboot.sh`
+
+
 Good Luck
