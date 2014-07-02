@@ -28,6 +28,7 @@ Make sure `.sh` file is executable :
 Default assumed user/pass:
 
 user: admin
+
 password: admin
 
 
