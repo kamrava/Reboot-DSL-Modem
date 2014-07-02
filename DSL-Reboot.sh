@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-zenity --info --text "DSL-Modem is rebooting..."
+echo "DSL-Modem is rebooting..."
 
 
 expect -c '
@@ -21,4 +21,4 @@ send "$command\r"
 interact
 '
 
-zenity --info --text "DSL-Modem rebooted successfully."
+echo "DSL-Modem rebooted successfully."
