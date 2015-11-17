@@ -1,7 +1,7 @@
 Bash-Scripts
 ============
 
-<b>What is this Script ?<b>
+<h1>What is this Script ?</h1>
 
 This script allows to reboot your DSL-Modem.
 
