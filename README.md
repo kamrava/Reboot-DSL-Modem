@@ -1,6 +1,6 @@
 <h3>What is this Script ?</h3>
 
-This a bash script which allowsyou  to rebootyour DSL-Modems.
+This is a bash script which allowsyou  to rebootyour DSL-Modems.
 
 Notice : This script is written for D-Link 2730U. If doesn't work for your model, try to change it.
 
