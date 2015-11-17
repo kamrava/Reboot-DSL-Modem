@@ -1,20 +1,14 @@
-Bash-Scripts
-============
+<h3>What is this Script ?</h3>
 
-<h1>What is this Script ?</h1>
-
-This script allows to reboot your DSL-Modem.
-
-Just run this script and your DSL-Modem will reboot!
-
+This a bash script which allowsyou  to rebootyour DSL-Modems.
 
 Notice : This script is written for D-Link 2730U. If doesn't work for your model, try to change it.
 
-<b>Unix-Like Rquirements :<b>
+<h3>Unix-Like Rquirements :</h3>
 
 Install `expect` package.
 
-<b>How do I use this script ?<b>
+<h3>How do I use this script ?</h3>
 
 `$ sh DSL-Reboot.sh`
 
